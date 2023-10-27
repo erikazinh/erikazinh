@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**erikazinh/erikazinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+oii meu nome é Èrica sou do 1B
+- tenho 15years
+- dia 05/10 é meu aniversário
+- gosto de jogar vôlei
+- gosto de crianças
+- goto de escutar musica ( sertanejo ou funk)
+-  minhas cores favoritas é roxo e preto
+-  meu signo é libra
+-  gosto de frio,não sou muito do calor
+-  gosto de gatos
+-  meu pais favorito é os Estados Unidos
+  
+  
